@@ -1,6 +1,5 @@
 # Regression modelling Project 
-This is a final project from the Google Advanced Data Analytics' fifth course. The goal of this project is to look into how to predict Tiktok users' ‘verified_status’, which we believe will help us understand how video characteristics relate to verified users, by building a logistic regression model using ‘verified_status’ as the outcome variable.
-
+This is a final project from the Google Advanced Data Analytics' fifth course. The goal of this project is to conduct a logistic regression using `verified_status` as the outcome variable. The results may be used to inform the final model related to predicting whether a video is a claim vs an opinion.
 # Dataset Description
 
 This project uses a dataset called `tiktok_dataset.csv`. It contains synthetic data created for this project in partnership with TikTok. The dataset consists of 19383 rows, with each row representing a different published TikTok video in which a claim/opinion has been made. There are 12 columns in the dataset, each with the following information:
