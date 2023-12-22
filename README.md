@@ -1,5 +1,5 @@
 # Regression modelling Project 
-This is a final project from the Google Advanced Data Analytics' fifth course. Regression Analysis: Simplify Complex Data Relationships. The goal of this project is to look into how to predict ‘verified_status’, which we believe will help us understand how video characteristics relate to verified users, by building a logistic regression model using ‘verified_status’ as the outcome variable.
+This is a final project from the Google Advanced Data Analytics' fifth course. The goal of this project is to look into how to predict Tiktok users' ‘verified_status’, which we believe will help us understand how video characteristics relate to verified users, by building a logistic regression model using ‘verified_status’ as the outcome variable.
 
 # Dataset Description
 
